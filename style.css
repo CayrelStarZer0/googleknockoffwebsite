@@ -1,0 +1,99 @@
+body{
+	width: 750px;
+}
+
+
+div.content{
+	width: 750px;
+}
+div.headerwrapper{
+	background-color:#0000008a;
+}
+header{
+	width: 750px;
+	height: 50px;
+}
+header img{
+	height: 50px;
+	margin: auto;
+	padding-left: 50px;
+}
+nav{
+	float: right;
+}
+ul.one{
+	list-style: none;
+	padding: 0px;
+	margin-right: 50px;
+
+}
+li{
+	display: inline-block;
+}
+section.one{
+	height: 400px;
+	padding: 50px;
+	margin: auto;
+	text-align: center;
+	background-color:#e9e7e7;
+}
+h2.about{
+	color: white;
+	background-color: black;
+	width: 150px;
+	margin: auto;
+	margin-top: 300px;
+	font-size: 20px;
+}
+section.two{
+	height: 400px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: auto;
+	text-align: left;
+	background-color:#ecf1ce;
+	font-size: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+h1.aboutus{
+	padding-right: 30px;
+	text-align: right;
+}
+section.three{
+	height: 400px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: auto;
+	background-color:#b2c5e9;
+}
+h1.contactus{
+	text-align: left;
+	padding-left: 30px;
+}
+h2.number{
+	text-align: left;
+	padding: 30px;
+	margin: auto;
+	font-size: 14px;
+}
+section.three img{
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	padding-left: 30px;
+	padding-top: 40px;
+}
+footer{
+	margin: auto;
+	height: 20px;
+	padding: 10px;
+	background-color: black;
+}
+h1.copyright{
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	text-align: center;
+	margin: auto;
+}
